@@ -4,6 +4,7 @@ import pandas as pd
 # creamos el titulo de la App
 st.title("Titanic App")
 st.header("Titanic Graphs -App")
+st.header("Diana Gonzalez Munguia")
 st.write("Graficas del dataset Titanic")
 
 titanic_link = 'Titanic.csv'
